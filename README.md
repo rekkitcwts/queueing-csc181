@@ -1,3 +1,3 @@
-queueing-csc181
+Queueing System - A Project in CSC 181 (Software Engineering)
 ===============
-This is just a test.
+This readme temporarily left blank
